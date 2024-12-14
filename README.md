@@ -10,3 +10,5 @@
 mobina-soltani/mobina-soltani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://app.daily.dev/mobinasoltani"><img src="https://api.daily.dev/devcards/v2/QduSJ5X4A9fssChOsDsEY.png?type=wide&r=2m2" width="652" alt="Mobina Soltani's Dev Card"/></a>
