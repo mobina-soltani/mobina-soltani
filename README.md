@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mobina-soltani
 - 👀 I’m interested in learning programming and data science, and designing and developing websites.
-- 🌱 I’m currently growing to be a better learner, programmer and human!
+- 🌱 I’m currently growing to be a better learner, programmer, and human!
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: you can easily send me an email :)
 - 😄 Pronouns: she/her/hers
