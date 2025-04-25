@@ -5,7 +5,7 @@
 
 🌟 **About Me**
 - 🎨 Turning ideas into innovative, impactful software
-- 💻 Skilled in **Java**, **Python**, **C**, **SQL**, and **Web Development Basics**
+- 💻 Skilled in **Java**, **Python**, **C**, **JavaScript**, **CSS**, **SQL**, **Firebase**, and **Web Development**
 - 🚀 Passionate about merging **art and technology** through creative projects
 - 🎯 Always learning, always building — aspiring to make a difference through code
 
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
  
 ---
