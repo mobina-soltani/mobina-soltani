@@ -1,20 +1,42 @@
-- 👋 Hi, I’m @mobina-soltani
-- 👀 I’m interested in learning programming and data science, and designing and developing websites.
-- 🌱 I’m currently growing to be a better learner, programmer, and human!
-- 💞️ I’m looking to collaborate on interesting projects.
-- 📫 How to reach me: you can easily send me an email :)
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I have been wearing glasses since I was 5 years old
+<h1 align="center">Hi 👋, I'm Mobina Soltani</h1>
+<h3 align="center">Aspiring Software Engineer | Blending Creativity with Technology</h3>
 
-<!---
-mobina-soltani/mobina-soltani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<a href="https://app.daily.dev/mobinasoltani"><img src="https://api.daily.dev/devcards/v2/QduSJ5X4A9fssChOsDsEY.png?type=wide&r=2m2" width="652" alt="Mobina Soltani's Dev Card"/></a>
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/mobina-soltani"
-  width="600"
-  height="300"
-/>
-</a>
+---
+
+🌟 **About Me**
+- 🎨 Turning ideas into innovative, impactful software
+- 💻 Skilled in **Java**, **Python**, **C**, **SQL**, and **Web Development Basics**
+- 🚀 Passionate about merging **art and technology** through creative projects
+- 🎯 Always learning, always building — aspiring to make a difference through code
+
+---
+
+🌱 **Current Focus**
+- Deepening my expertise in **Object-Oriented Programming**
+- Building creative, user-centered solutions
+- Exploring new tech and tools to sharpen my skills
+
+---
+
+🛠️ **Languages and Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+---
+
+📫 **Let's Connect!**
+- [LinkedIn](https://www.linkedin.com/in/mobinasoltani/)  
+- 📧 Email: your-email@example.com
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Creativity%20is%20intelligence%20having%20fun.">
+</p>
