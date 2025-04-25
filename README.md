@@ -37,6 +37,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Creativity%20is%20intelligence%20having%20fun.">
-</p>
+### 📖 Inspiration
+> *"Creativity is intelligence having fun."*  
+> — Albert Einstein
