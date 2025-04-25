@@ -33,7 +33,7 @@
 
 📫 **Let's Connect!**
 - [LinkedIn](https://www.linkedin.com/in/mobinasoltani/)  
-- 📧 Email: your-email@example.com
+- 📧 Email: mobinasoltanidev@gmail.com
 
 ---
 
