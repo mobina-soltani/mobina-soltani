@@ -5,7 +5,7 @@
 
 🌟 **About Me**
 - 🎨 Turning ideas into innovative, impactful software
-- 💻 Skilled in **Java**, **Python**, **C**, **JavaScript**, **CSS**, **SQL**, **Firebase**, and **Web Development**
+- 💻 Skilled in **Java**, **Python**, **C**, **JavaScript**, **SQL**, **Firebase**, and **Web Development**
 - 🚀 Passionate about merging **art and technology** through creative projects
 - 🎯 Always learning, always building — aspiring to make a difference through code
 
